@@ -4,6 +4,7 @@ AIM:
 To construct and test the CMRR of an instrumentation amplifier using op-amp IC741.
 
 APPARATUS REQUIRED:
+
 <img width="668" height="182" alt="image" src="https://github.com/user-attachments/assets/cf6e4877-615b-407c-844d-47c88f5f938d" />
 
 THEORY:
@@ -13,10 +14,12 @@ An instrumentation amplifier is the intermediate stage of a instrumentation syst
 The major requirements of a instrumentation amplifier are precise, low-level signal amplification where low-noise, low thermal and time drifts, high input resistance & accurate closed-loop gain, low power consumption, high CMRR & high slew rate for superior performance.
 
 The output of Instumentation amplifier is given by
+
 <img width="229" height="48" alt="image" src="https://github.com/user-attachments/assets/7ba69ed0-4777-4a18-83c8-16d594863038" />
 
 CIRCUIT DIAGRAM:
 INSTRUMENTATION AMPLIFIER
+
 <img width="1006" height="688" alt="image" src="https://github.com/user-attachments/assets/327743dc-08d6-4af8-b9cc-fc73d2beffd2" />
 
 PROCEDURE:
@@ -29,13 +32,20 @@ PROCEDURE:
 7.	The output voltage is obtained in the Multimeter and the input and output voltage waveforms are plotted in a graph sheet.
 
 MODEL GRAPH: 
+
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
 
+![WhatsApp Image 2025-11-18 at 15 29 06_c5dc845b](https://github.com/user-attachments/assets/2929bb0b-ab31-4669-be73-e65ea5716278)
+
+
 
 GRAPH: 
+
+![WhatsApp Image 2025-11-18 at 15 29 08_f91523f0](https://github.com/user-attachments/assets/4442338f-9539-40a6-8cfe-b64f0fe5b09e)
 
 
 RESULT:
 
+   Thus an instrumentation amplifier was constructed and tested using op amp ic 741
